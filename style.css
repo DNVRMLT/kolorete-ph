@@ -110,7 +110,7 @@ font-weight: 800;
   text-align: center;
   margin: 10px 0;
   margin-top: 50px;
-  line-height: 300px;
+  line-height: 350px;
   font-size: 30px;
   font-weight: 900;
   border-radius: 10px;
@@ -122,6 +122,7 @@ font-weight: 800;
 .card-1 a{
    background: rgba(0,0,0,.4);
    border-radius: 5px;
+
 }
 
 .card-2 a{
@@ -178,76 +179,91 @@ font-weight: 800;
    background: url("img/crystal-bow-clamps/crystal-bow-clamps-cover.webp");
    background-size: cover;
    background-repeat: no-repeat;
+   width: 100%;
+   height: 350px;
+   
   
 }
 .carousel .card-2{
-  background: url("img/big-matte-clamps/big-matte-clamps-black.webp");
-   background-size: cover;
-   background-repeat: no-repeat;
-  
+ background: url("img/big-matte-clamps/big-matte-clamps-black.webp");
+ background-size: cover;
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 350px;
 }
 .carousel .card-3{
-   background: url("img/ariel-clamps/ariel-clamps-cover.webp");
-   background-size: cover;
-   background-repeat: no-repeat;
-  
+ background: url("img/ariel-clamps/ariel-clamps-cover.webp");
+ background-size: cover;
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 350px;
 }
 .carousel .card-4{
-    background: url("img/gem-clamps/gem-clamps-cover.webp");
-   background-size: cover;
-   background-repeat: no-repeat;
-   
+ background: url("img/gem-clamps/gem-clamps-cover.webp");
+ background-size: cover;
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 350px;
 }
 
 .carousel .card-5{
  background: url("img/black-chain-clamps/black-chain-clamps-cover.webp");
-   background-size: cover;
-   background-repeat: no-repeat;
-
+ background-size: cover;
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 350px;
 }
 .carousel .card-7{
  background: url("img/koloretes-fashion-pins/koloretes-fashion-pins 1.webp");
-   background-size: cover;
-   background-repeat: no-repeat;
-
+ background-size: cover;
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 350px;
 }
 .carousel .card-8{
  background: url("img/kristal-earrings- crystal/kristal-earrings- crystal-cover.webp");
-   background-size: cover;
-   background-repeat: no-repeat;
-
+ background-size: cover;
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 350px;
 
 }
 .carousel .card-9{
  background: url("img/bituin-earrings-stars/bituin-earrings-stars.webp");
-   background-size: cover;
-   background-repeat: no-repeat;
-
+ background-size: cover;
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 350px;
 }
 .carousel .card-10{
  background: url("img/mariposa-gold-clamp/mariposa-gold-clamp-cover.webp");
-   background-size: cover;
-   background-repeat: no-repeat;
-
+ background-size: cover;
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 350px;
 }
 
 .carousel .card-11{
  background: url("img/malagu-gold-clamp/malagu-gold-clamp-cover.webp");
-   background-size: cover;
-   background-repeat: no-repeat;
-
+ background-size: cover;
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 350px;
 }
 
 .carousel .card-12{
  background: url("img/nana-clamp/nana-clamp-black.webp");
-   background-size: cover;
-   background-repeat: no-repeat;
-
+ background-size: cover;
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 350px;
 }
 
 
 .carousel .card-6{
   background-image: linear-gradient(to right bottom, #ff0099, #493240);
+  width: 100%;
+  height: 350px;
 }
 .owl-dots{
   text-align: center;
@@ -267,6 +283,8 @@ font-weight: 800;
 .owl-dot:hover{
   background: #C4A07E !important;
 }
+
+
 .how-to-order{
   background-color: #C4A07E;
   height: auto;
@@ -331,4 +349,5 @@ margin-bottom: 20px;
   color: grey;
   text-decoration: none;
 }
+
 
